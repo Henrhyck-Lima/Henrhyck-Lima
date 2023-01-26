@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Henrhyck Lima 😁🔥
+
 
 <div align="center" Style="display: inline_block">
 
