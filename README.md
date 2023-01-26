@@ -2,7 +2,7 @@
 
 <div align="center" Style="display: inline_block">
 
- <div align="center" Style="display: flex">
+ <div align="center">
   
   <img alt="quadro de estatísticas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api?username=Henrhyck-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   <img alt="quadro de linguagens mais usadas desse perfil"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henrhyck-Lima&layout=compact&langs_count=6&theme=tokyonight">
